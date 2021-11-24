@@ -253,6 +253,7 @@ TR is a *second-order* *implicit* method and allows, compared to FE and BE, larg
 
 > After abrupt changes of input signals or topology (hard switching), TR can generate oscillation artifacts. As a remedy, one can temporally switch to BE for one or two steps.
 
+
 ---
 
 In the pictures below, $i_n$ is the device current at step $n$, not to be confused with $in$, the Norton current source.
